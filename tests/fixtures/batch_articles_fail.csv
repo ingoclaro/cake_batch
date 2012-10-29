@@ -1,0 +1,5 @@
+user_id;title;body;published
+1;batch title 2;body title 2
+1;batch title 2;body title 2;Y;extra field
+N/A;batch title 3;body title 3;Y
+N/A;;body title 3;Y
